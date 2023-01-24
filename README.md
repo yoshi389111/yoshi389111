@@ -16,6 +16,6 @@
 
 #### :memo: Misc
 
-* [LGTM collections](https://yoshi389111.github.io/yoshi389111/lgtm.html)
+* [LGTM collections](https://htmlpreview.github.io/?https://github.com/yoshi389111/yoshi389111/blob/main/docs/lgtm.html)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)

@@ -10,6 +10,7 @@
 * VS Code extensions ([marketplace](https://marketplace.visualstudio.com/publishers/yoshi389111))
     * [yoshi389111/vscode-md-table-rainbow](https://github.com/yoshi389111/vscode-md-table-rainbow) - Color each column of the markdown table.
     * [yoshi389111/visible-whitespace](https://github.com/yoshi389111/visible-whitespace) - Make whitespace visible.
+* Tech blog: [dev.to](https://dev.to/yoshi389111)
 
 #### :japan: My Projects (Japanease only)
 

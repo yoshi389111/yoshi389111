@@ -18,6 +18,7 @@
 
 * [yoshi389111/kinokobooks](https://github.com/yoshi389111/kinokobooks) - 「きのこ本」を勝手に電子書籍化
 * [yoshi389111/dq1pswd](https://github.com/yoshi389111/dq1pswd) - ふっかつのじゅもんを作れます。１の方です。
+* [yoshi389111/dq2pswd](https://github.com/yoshi389111/dq2pswd) - ふっかつのじゅもんを作れます。２の方です。
 * Tech blog: [Qiita](https://qiita.com/yoshi389111) / [Zenn](https://zenn.dev/yoshi389111)
 
 #### :memo: Misc

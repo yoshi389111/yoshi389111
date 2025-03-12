@@ -26,4 +26,4 @@
 
 * [my LGTM collections](https://yoshi389111.github.io/LGTM/lgtm.html)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-dual.svg)

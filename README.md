@@ -7,6 +7,9 @@
 * VS Code extensions ([marketplace](https://marketplace.visualstudio.com/publishers/yoshi389111))
     * [yoshi389111/vscode-md-table-rainbow](https://github.com/yoshi389111/vscode-md-table-rainbow) - Color each column of the markdown table.
     * [yoshi389111/visible-whitespace](https://github.com/yoshi389111/visible-whitespace) - Make whitespace visible.
+    * [yoshi389111/vscode-robots-txt-support](https://github.com/yoshi389111/vscode-robots-txt-support) - Robots.txt support.
+* NPM
+    * [@yoshi389111/fake-xmlservice](https://github.com/yoshi389111/fake-xmlservice) - GAS's XmlService implementation for unit testing.
 * Command line tools
     * [yoshi389111/pong-is-not-ping](https://github.com/yoshi389111/pong-is-not-ping) - POng is Not pinG
     * [yoshi389111/power-hello](https://github.com/yoshi389111/power-hello) - Create SVG images of powerful keystrokes.
